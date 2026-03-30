@@ -64,6 +64,9 @@ plot(t,epm);
 
 ## Output :
 
+![WhatsApp Image 2026-03-30 at 17 57 58](https://github.com/user-attachments/assets/4ac1b2f6-d03b-4695-9c3a-49bf1889c700)
+
+![WhatsApp Image 2026-03-30 at 17 57 58 (1)](https://github.com/user-attachments/assets/89798744-636b-4568-b194-a8a85ac2a187)
 
 ## Result :
 
